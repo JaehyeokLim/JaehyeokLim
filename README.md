@@ -1,16 +1,20 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%20Jaehyeok%20Lim&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&animation=fadeIn)
 
-<!--
-**JaehyeokLim/JaehyeokLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Study Note
+<div>
+  
+[![My Skills](https://skillicons.dev/icons?i=notion)]()
+  
+</div>
 
-Here are some ideas to get you started:
+> Tech Stack
+<div>
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,swift,firebase,idea,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br><br>
+
+> ⚠️ Note: [My previous GitHub account](https://github.com/grgnjhyxxk) was primarily used for iOS development and Swift language practice.  
+I created this new account to focus on backend development with Java and Spring.
