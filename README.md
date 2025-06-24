@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%20Jaehyeok%20Lim&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&animation=fadeIn)
 
+> My Latest Velog Post
+
+<div>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeoklim)](https://github.com/eungyeole/velog-readme-stats)
+
+</div>
+
 > Study Note
 <div>
   
