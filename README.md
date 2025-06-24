@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%20Jaehyeok%20Lim&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&animation=fadeIn)
 
-> My Latest Velog Post
+> **My Latest Velog Post**
 
 <div>
   
@@ -8,14 +8,14 @@
 
 </div>
 
-> Study Note
+> **Study Note**
 <div>
   
 [![My Skills](https://skillicons.dev/icons?i=notion)]()
   
 </div>
 
-> Tech Stack
+> **Tech Stack**
 <div>
   
 [![My Skills](https://skillicons.dev/icons?i=java,spring,swift,firebase,idea,vscode)](https://skillicons.dev)
