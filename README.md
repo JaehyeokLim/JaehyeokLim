@@ -4,7 +4,7 @@
 
 <div>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaehyeoklim)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog stats](https://velog-readme-stats.vercel.app/api?name=jaehyeoklim)](https://velog.io/@jaehyeoklim)
 
 </div>
 
