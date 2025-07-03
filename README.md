@@ -8,6 +8,13 @@
 
 </div>
 
+> **Portfolio**
+<div>
+  
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://www.notion.so/225888edac6a80a5abcefbda01e5f2bd?source=copy_link)
+  
+</div>
+
 > **SNS**
 <div>
   
