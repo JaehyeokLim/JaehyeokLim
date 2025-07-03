@@ -18,7 +18,7 @@
 > **Study Note**
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=notion)]()
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://www.notion.so/Dev-Notes-21c888edac6a80aeaea7fbab9ffd0e30?source=copy_link)
   
 </div>
 
