@@ -15,13 +15,6 @@
   
 </div>
 
-> **SNS**
-<div>
-  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaehyeoklim/)
-
-</div>
-
 > **Study Notes**
 <div>
   
