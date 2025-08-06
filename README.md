@@ -21,15 +21,6 @@
 
 </div>
 
-> **Card Stack**
-<div>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jaehyeoklim)](https://solved.ac/jaehyeoklim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyeoklim)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <br><br>
 
 > ⚠️ Note: [My previous GitHub account](https://github.com/grgnjhyxxk) was primarily used for iOS development and Swift language practice.  
