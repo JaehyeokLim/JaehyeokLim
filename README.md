@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%20Jaehyeok%20Lim&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&animation=fadeIn)
 
-> **Portfolio**
-<div>
-  
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://jaehyeoklim.notion.site/225888edac6a80a5abcefbda01e5f2bd?source=copy_link)
-  
-</div>
-
 > **Study Notes**
 <div>
   
@@ -17,8 +10,8 @@
 > **Tech Stack**
 <div>
   
-[![My Skills](https://skillicons.dev/icons?i=java,spring,swift,firebase,idea,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,postgresql,mongodb,docker,aws,githubactions,grafana,prometheus,idea,vscode,swagger,figma,notion,discord)](https://skillicons.dev)
+  
 </div>
 
 <br><br>
